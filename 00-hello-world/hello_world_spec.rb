@@ -1,4 +1,3 @@
-gem 'minitest', '>= 5.0.0'
 require 'minitest/pride'
 require 'minitest/autorun'
 require_relative 'hello_world'
